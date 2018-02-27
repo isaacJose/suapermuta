@@ -1,5 +1,6 @@
 create schema SGIP;
 use SGIP;
+
 set charset utf8;
 
 /*
