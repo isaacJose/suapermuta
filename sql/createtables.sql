@@ -13,6 +13,10 @@ set charset utf8;
  * 
 */
 
+create table login(
+	id int(9) not null auto_increment
+);
+
 create table patente(
 	id int(9) not null auto_increment
 );
