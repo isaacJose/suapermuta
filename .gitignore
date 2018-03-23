@@ -3,6 +3,8 @@
 
 ### Eclipse ###
 
+ignored-files/
+
 .metadata
 bin/
 tmp/
