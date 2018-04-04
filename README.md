@@ -52,8 +52,8 @@ Finalizar com a presentação do que deve ser exibido [fotos/escrito]
 * **Alcindo Júnior** - a.k.a - [jrrf](https://github.com/jrrf)
 * **Bruno Silva** - a.k.a - [isk4ndar](https://github.com/isk4ndar)
 * **Isaac José** - a.k.a - [isaacJose](https://github.com/isaacJose)
-* **Joaquim Heitor** - a.k.a - [vandersonfabio](https://github.com/vandersonfabio)
-* **Vanderson Fabio** - a.k.a - [isaacJose](https://github.com/isaacJose)
+* **Joaquim Heitor** - a.k.a - [heitormedeiros](https://github.com/heitormedeiros)
+* **Vanderson Fabio** - a.k.a - [vandersonfabio](https://github.com/vandersonfabio)
 
 ## Member Responsibilities - SiGP
 
