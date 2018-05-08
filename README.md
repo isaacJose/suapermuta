@@ -8,7 +8,10 @@ O sistema Sua Permuta será capaz de armazenar dados dos policiais militares do 
 
 ## Getting started [Under construction]
 
-Instrução de como baixar e rodar o projeto em uma máquina local.
+1. mvn clean
+2. mvn clean install
+3. Go to the target folder
+4. java -jar apf-bsi-0.0.1-SNAPSHOT.jar
 
 ### Prerequisites
 
