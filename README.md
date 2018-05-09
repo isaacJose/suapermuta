@@ -1,3 +1,4 @@
+
 # SIGP
 ## Sistema Gerenciador de Permutas
 ### Aplicação web para controle de permutas como projeto para disciplina Engenharia de Software II
@@ -6,35 +7,13 @@
 O sistema Sua Permuta será capaz de armazenar dados dos policiais militares do 6º Batalhão de Polícia \nMilitar do RN (6º BPM), como também os dados das permutas - termo usado na caserna para designar as trocas de serviços - solicitadas pelos policiais para remediar eventuais situações que impossibilitem o mesmo de comparecer ao seu posto de serviço. O sistema terá funcionalidades como cadastrar os usuários do sistema, cadastrar os postos de serviço mais comumente utilizados, autorização das solicitações de permutas, confirmação sobre o deferimento ou não das solicitações e emissão de relatórios sobre os policiais que tiveram mais permutas autorizadas. A motivação para o desenvolvimento deste sistema se deu pelo pleito do responsável pela confecção de escalas de serviço da referida unidade policial militar, haja vista que as solicitações de permutas são feitas pelos mais variados canais de comunicação, o que implica numa logística fraca e suscetível à erros.
 </p>
 
-## Getting started [Under construction]
+## Getting started
 
 1. mvn clean
 2. mvn clean install
 3. Go to the target folder
 4. java -jar apf-bsi-0.0.1-SNAPSHOT.jar
 
-### Prerequisites
-
-O que é necessário ter ná maquina para instalar e executar a aplicação disponibilizada.
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-Passo a passo do que é necessário fazer, desde a instalação até a execução da aplicação.
-
-Say what the step will be:
-
-```
-Exemple(s) start
-```
-
-And repeat:
-
-```
-Exemple finish
-```
-
-Finalizar com a presentação do que deve ser exibido [fotos/escrito]
 ## Built with (Technologies)
 
 * [Spring Boot](https://projects.spring.io/spring-boot/) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
@@ -96,7 +75,7 @@ Finalizar com a presentação do que deve ser exibido [fotos/escrito]
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-# References [Under construction]
+# References
 
 > For build this README •  [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
@@ -105,8 +84,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 > To learn about versioning project with Git • [Tutorial completo sobre versionamento com GIT](https://github.com/MuvucaGames/Tutoriais/wiki/%5BWIP%5D-Tutorial-completo-sobre-versionamento-com-GIT) and [Lista de comandos úteis do GITcomelli com Leocomelli](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
 
 Make this with ♥.
-
-
-[Under construction]
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/isk4ndar/suapermuta.svg?columns=all)](https://waffle.io/isk4ndar/suapermuta)
